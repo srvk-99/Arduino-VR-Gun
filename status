@@ -1,0 +1,33 @@
+Programs Used-
+1)Arduino IDE
+2) unity 3D 2018.1
+
+Hardware Used-
+1)Arduino
+2) MPU6050
+
+Topics to be covered-
+1)concepts of serial communication between arduino and Unity[would not be using Uduino since PAID]
+
+2)sketches in arduino
+3)scripting in UNITY[C sharp]
+
+PROGRESS REPORT-
+
+0n 1st may 2018--
+succesfull to start communication between arduino and Unity.
+
+On 2nd May 2018--
+sucessfull in controlling a 3D cube in all directions using MPU6050
+
+From 3rd May 2018--
+learning to 
+1)add/design environment.
+2)FPS gaming
+3)shooting
+
+CURRENT REPORT--
+currenty working on implementing shooting features to the game(using raycast).
+Apparently over with hardware part and controlling of gun around the environment using MPU6050.
+
+ 
