@@ -26,8 +26,11 @@ learning to
 2)FPS gaming
 3)shooting
 
-CURRENT REPORT--
-currenty working on implementing shooting features to the game(using raycast).
-Apparently over with hardware part and controlling of gun around the environment using MPU6050.
+On 12 May 2018--
+succesfully completed the assigned task.
 
- 
+Note--
+Only pre-built assets - 
+1)gun 
+2)gems
+[as instructed].
